@@ -2,4 +2,4 @@
  :deps  {}
  :aliases 
   {:neil {:project {:name rads/deps-infer
-                    :version "0.0.1"}}}}
+                    :version "0.0.2"}}}}
